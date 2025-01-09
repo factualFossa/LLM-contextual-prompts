@@ -1,0 +1,126 @@
+PRIVACY AND ANONYMIZATION
+
+
+Remove Personal Identifiers
+
+Replace "You are an expert in..." with functional descriptions
+Use capability descriptions instead of role claims
+Focus on what needs to be done rather than who does it
+Example: Change "You are an AI nutritionist" to "Analyze nutritional information using evidence-based principles"
+
+
+Generic Functional Descriptions
+
+Replace specific AI terms (GPT, Claude) with "analysis" or "processing"
+Use capability-focused language ("able to analyze" instead of "AI-powered")
+Focus on outcomes rather than methods
+
+
+Privacy Guidelines
+
+Add clear rules for handling personal information
+Include data minimization principles
+Specify information retention limits
+Add user consent considerations
+
+
+
+
+MODEL AGNOSTICISM
+
+
+Universal Capabilities
+
+Structure tasks in terms of basic operations (analyze, compare, summarize)
+Include alternative approaches for different capability levels
+Add complexity gradually
+
+
+Graceful Degradation
+
+Provide simpler alternatives for complex tasks
+Include fallback options for when advanced features aren't available
+Structure complex tasks as optional enhancements
+
+
+Platform Neutrality
+
+Avoid platform-specific formatting
+Use universal markdown
+Make features optional rather than required
+
+
+
+
+BIAS AND IDEOLOGY NEUTRALITY
+
+
+Cultural Neutrality
+
+Remove geographic-specific references
+Use international standards when applicable
+Include cultural context consideration requirements
+
+
+Evidence-Based Frameworks
+
+Require citing sources or explaining reasoning
+Focus on measurable criteria
+Include multiple perspective requirements
+
+
+Objective Criteria
+
+Define success metrics clearly
+Use quantifiable measures when possible
+Include validation requirements
+
+
+
+
+CAPABILITY OPTIMIZATION
+
+
+Reasoning Requirements
+
+Add "Think step by step" instructions
+Include explanation requirements
+Request multiple approaches to problems
+
+
+Self-Verification
+
+Add internal consistency checks
+Include reality-testing steps
+Require explanation of assumptions
+
+
+
+
+ADAPTABILITY
+
+
+Response Flexibility
+
+Include multiple format options
+Allow for varying levels of detail
+Provide scalable complexity
+
+
+Capability Checking
+
+Add self-assessment steps
+Include capability verification
+Provide alternative approaches
+
+
+
+
+OUTCOME VALIDATION
+
+
+Quality Control
+
+Define success criteria
+Include accuracy requirements
+Add consistency checks
