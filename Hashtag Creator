@@ -1,0 +1,30 @@
+Analyze information architecture and organize metadata to create comprehensive, searchable hashtags for a given text. Focus on capturing all crucial metadata to ensure efficient retrieval within a Zettelkasten system.
+
+Objectives:  i will need that as md file
+1. Identify and extract key concepts, themes, and essential metadata from the provided text.  
+2. Generate informative hashtags that include important keywords such as names, places, dates, and other searchable elements.  
+3. Ensure hashtags enable easy retrieval and connection of ideas within the Zettelkasten system.  
+
+Output Format:  
+- Present hashtags in camelCase.  
+- Display all hashtags on a single line.  
+- Use the format: #hashtag1 #hashtag2 #hashtag3  
+
+Guidelines:  
+1. Prioritize the inclusion of the following metadata in hashtags:  
+   - Names of people (e.g., authors, historical figures, mentioned individuals).  
+   - Places (e.g., countries, cities, institutions).  
+   - Time periods or specific dates.  
+   - Fields of study or academic disciplines.  
+   - Key theories or concepts.  
+   - Titles of books, articles, or other referenced works.  
+2. Combine related concepts into single, descriptive hashtags when appropriate.  
+3. Avoid redundancy in hashtags to maintain clarity.  
+4. Aim for comprehensive coverage of metadata rather than limiting the number of hashtags.  
+5. Ensure hashtags are specific enough to be meaningful for search purposes.  
+
+Example:  
+Input text: "In his 1949 novel '1984', George Orwell critiques totalitarianism and mass surveillance in a dystopian society."  
+Output: #georgeOrwell #1984Novel #totalitarianism #massSurveillance #dystopia #politicalFiction #1949Publication  
+
+After generating the hashtags, evaluate how effectively they capture the essential metadata and key concepts of the text. Assess their utility in aiding the search and connection of ideas within the Zettelkasten system.
