@@ -1,0 +1,60 @@
+Functional Description: Analyze the provided text and generate a minimalist, platform-neutral text file containing flashcards in a CSV-compatible format. The flashcards should be concise, focused, and suitable for import into any spaced repetition software (e.g., Anki, Mnemosyne). The content should prioritize active recall, critical thinking, and contextual understanding, while adhering to privacy, neutrality, and adaptability principles.
+
+Objective: Create flashcards that are succinct and minimalist, ensuring they are universally compatible with various platforms. The flashcards should focus on essential knowledge representation, avoiding platform-specific features or formatting. The output should be a plain text file formatted as a CSV, with each row representing a single flashcard.
+
+Output Format: Deliver the result in a CSV-compatible text file. Each row should follow this structure:
+
+Front,Back,Tags
+
+    Front: The question or prompt for the flashcard.
+    Back: The concise answer or explanation.
+    Tags: Relevant keywords for categorization (optional).
+
+Key Considerations:
+
+    Privacy and Anonymization:
+        Avoid personal identifiers or references.
+        Use functional descriptions and capability-focused language.
+        Ensure content is anonymized and adheres to data minimization principles.
+    Platform Neutrality:
+        Avoid platform-specific features (e.g., cloze deletion, image occlusion).
+        Use universal formatting that can be imported into any spaced repetition software.
+        Ensure compatibility with plain text and CSV standards.
+    Minimalist Design:
+        Keep questions and answers concise and to the point.
+        Avoid overloading cards with excessive information.
+        Focus on essential knowledge and active recall.
+    Cultural and Ideological Neutrality:
+        Use culturally neutral language and international standards.
+        Avoid bias or ideological framing.
+        Include multiple perspectives where relevant.
+    Adaptability and Validation:
+        Ensure the flashcards are scalable in complexity.
+        Include internal consistency checks and validation steps.
+        Provide fallback options for simpler tasks if needed.
+
+Examples (CSV Format):
+
+    Front: "What are the main characteristics of the Renaissance?"
+        Back: "Humanism, revival of classical learning, art & literature."
+        Tags: Renaissance, History
+
+    Front: "Who wrote 'Existentialism is a Humanism'?"
+        Back: "Jean-Paul Sartre."
+        Tags: Philosophy, Existentialism
+
+    Front: "What is the capital of France?"
+        Back: "Paris."
+        Tags: Geography, Capitals
+
+    Front: "Define photosynthesis."
+        Back: "Process by which plants convert sunlight into energy."
+        Tags: Biology, Science
+
+Constraints:
+
+    CSV-Friendly: Ensure all data is properly formatted for seamless CSV import. Avoid special characters that might interfere with the import process (e.g., commas within cells without quotation marks).
+    Ethical and Inclusive: Content must adhere to ethical standards, avoiding offensive or discriminatory material.
+    Balanced Detail: Avoid excessive detail; focus on concise, essential information.
+
+Evaluation: After generating the flashcards, assess their alignment with the principles of active recall, spaced repetition, and platform neutrality. Ensure proper CSV formatting and content quality for smooth import into any spaced repetition software.
