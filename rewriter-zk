@@ -1,95 +1,35 @@
-SCOPE AND OBJECTIVES
-• Receive an original text and transform it into a rewritten version that fosters deep, interconnected note-taking (Zettelkasten style).
-• Focus on extracting core ideas, linking concepts, and including reflective prompts that encourage further exploration.
+# Text Analysis Guide for Zettelkasten Note-Taking
 
-INSTRUCTIONS AND REQUIREMENTS
+## Purpose
+The goal is to transform source material into fertile ground for Zettelkasten note-taking through concise, interconnected paragraphs. This approach preserves complexity while identifying potential connections and thought-provoking elements. Rather than creating ready-made notes, we aim to highlight paths for personal insight and connection-making.
 
-A. Functional Requirements
+## Analysis Framework
 
-    Evidence-based Reasoning: Use logical analysis to clarify the text’s core arguments, key terms, and any underlying assumptions.
-    Theoretical and Practical Integration: Highlight relevant theories or frameworks and connect them to real-world examples or applications.
-    Multiple Perspectives: Point out differing viewpoints or open questions related to the text.
-    Limitations and Uncertainties: Note potential gaps in information or areas that remain speculative.
+### First Pass: Conceptual Mapping
+Begin with a brief paragraph identifying the text's central argument or theme. Follow this with several short paragraphs examining supporting concepts, each flowing naturally into the next. Pay special attention to unexpected claims or counterintuitive ideas that might challenge existing knowledge. Note explicit connections to other fields, as well as questions raised but not fully answered in the text.
 
-B. Process Framework
-Phase 1 – Analysis:
-• Identify the text’s central thesis or purpose.
-• Extract the most critical supporting details and categorize them under relevant concepts.
-• Spot any ambiguities or contrasting opinions.
+### Second Pass: Relational Analysis
+Write short, focused paragraphs examining how concepts within the text relate to each other. Consider how these ideas might challenge or support existing knowledge, and how they might apply in different contexts. Look for gaps or uncertainties that invite deeper exploration. Each paragraph should open new possibilities for connection rather than closing off interpretation.
 
-Phase 2 – Synthesis:
-• Present a structured summary emphasizing key learnings from the original text.
-• Offer potential connections to other topics or research areas (e.g., “This concept relates to sources like [Author, Year] in the field of …”).
-• Suggest questions or prompts for further exploration.
+### Third Pass: Synthesis
+Present your findings in flowing prose that moves naturally between ideas. Begin with a concise overview of the main argument, then explore key concepts and their relationships. Discuss notable questions or uncertainties, and suggest potential paths for deeper exploration. Address points of friction or contradiction in a way that invites further investigation.
 
-C. Quality Standards
-• Maintain a clear chain of reasoning (include explicit assumptions).
-• Ensure an “Advanced” level of depth, balancing theoretical and practical insights.
-• Reference credible sources in an academic APA citation style to support major points.
-• Provide at least one concrete example or scenario that illustrates each key idea.
+## Output Structure
 
-D. Format Guidelines
-• Organize the rewritten text with headings and bullet points for readability.
-• Clearly distinguish between summarizing the original content and offering interpretive or reflective notes.
-• Integrate short reflective prompts (e.g., “Reflect: How does this concept relate to …?”).
-• Include a concluding section explicitly naming limitations and additional resources.
+### Overview
+Write one or two paragraphs that capture the text's essence, highlighting what makes it noteworthy for your knowledge system. Focus on aspects that might spark new connections or insights.
 
-E. Verification Steps
+### Key Elements
+For each significant concept, write a brief paragraph that explains the idea and its relationship to the main argument. Consider its connections to other knowledge areas and questions it raises. Keep paragraphs focused and concise, allowing space for personal interpretation and connection-making.
 
-    Check for consistency with original intent.
-    Validate that all major factual claims align with reputable evidence.
-    Examine assumptions made in the rewritten text (call them out if uncertain).
-    Assess for practical feasibility in real-world contexts.
-    Review potential ethical considerations, if applicable (e.g., data privacy, social impact).
+### Connection Points
+Dedicate several short paragraphs to exploring opportunities for connection. Consider links to existing knowledge, cross-disciplinary applications, and theoretical or practical extensions. Discuss potential counter-arguments or limitations in a way that encourages further exploration.
 
-EXAMPLE REWRITTEN FORMAT (ILLUSTRATION)
+### Questions for Exploration
+Write engaging paragraphs that pose thoughtful questions about the material. These should challenge assumptions, suggest applications, identify gaps, and propose potential syntheses with other ideas. Frame questions to encourage deep thinking rather than simple answers.
 
-─────────────────────────────────────────────────────────────────────
+## Quality Guidelines
+Aim for clarity in presenting core ideas while maintaining enough complexity to spark insight. Keep paragraphs brief but rich in connection potential. Preserve ambiguity where it exists and note both strong and tentative connections. Mark areas of uncertainty or speculation, and highlight promising paths for further exploration.
 
-    Overview and Key Concepts
-    • Main Idea: Summarize the text’s overarching argument in 2–3 sentences.
-    • Core Themes: Identify 2–4 central concepts and briefly define each.
-
-    Detailed Findings
-    • Concept A (Supported by [Smith, 2019]):
-        Explanation: Provide a concise explanation.
-        Practical Example: “For instance, …”
-        Reflect: “How might this apply to …?”
-
-    • Concept B (Building on [Jones & Miller, 2021]):
-        Explanation: Include theoretical underpinnings or relevant data.
-        Example: “For example, … demonstrates this principle.”
-        Reflect: “What research could further validate …?”
-
-    Connections and Implications
-    • Link to other topics: Suggest how the concepts might relate to other fields or research areas.
-    • Potential Limitations: Identify 1–2 unclear or unresolved points from the text.
-    • Further Resources: Offer references or next steps for deeper exploration.
-
-    Limitations and Ethical Considerations
-    • Outline uncertainties or biases in the text.
-    • Describe ethical issues, if relevant (e.g., data protection).
-
-    Final Thoughts
-    • Provide 1–2 reflective questions encouraging further note-taking or cross-referencing in a Zettelkasten.
-
-─────────────────────────────────────────────────────────────────────
-
-ADAPTABILITY PARAMETERS
-• Audience Expertise: “Advanced” — use discipline-specific terminology but define it if it’s highly specialized.
-• Response Length: “Moderate” — ensure enough detail for depth but remain concise and focused.
-• Tone: “Conversational” — be clear and engaging, avoiding overly formal language.
-• Include Examples: “Yes” — integrate illustrative cases or hypothetical scenarios.
-• Citation Style: “Academic” — reference sources using a recognized academic format (e.g., [Smith, 2019]).
-
-PRIVACY GUIDELINES
-• Avoid personal identifiers; prioritize generalized or anonymized references.
-• Ensure data and context remain relevant only for note-taking and learning purposes.
-
-EVALUATION CRITERIA
-
-    Logical Coherence: Does the rewritten text flow with clarity and consistency?
-    Evidence Support: Are references provided for key claims?
-    Practical Applicability: Does it suggest real-world contexts or examples?
-    Ethical Considerations: Are potential ethical questions addressed?
-    Clarity: Is the language accessible and well-structured?
+## Implementation Notes
+Focus on creating flowing, interconnected paragraphs that invite deeper engagement with the material. Avoid creating ready-made notes or bullet points. Instead, structure your analysis to spark questions and connections that can lead to personal insight. Remember that the goal is to prepare the ground for note-taking, not to create the notes themselves.
