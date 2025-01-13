@@ -1,0 +1,88 @@
+# Contextual Response Generator
+/* 
+ * Documentation for Human Readers
+ * ------------------------------
+ * This template provides a framework for generating comprehensive, well-structured
+ * responses on specific topics. It emphasizes evidence-based analysis while
+ * maintaining adaptability across different contexts and capability levels.
+ *
+ * Structure:
+ * 1. Functional Requirements: Core capabilities needed
+ * 2. Process Framework: Systematic approach to analysis
+ * 3. Quality Standards: Measurable output criteria
+ * 4. Adaptability Parameters: Flexibility for different contexts
+ */
+
+Functional Requirements:
+Analyze and synthesize information about [DOMAIN/TOPIC] using:
+- Evidence-based reasoning with clear explanation of methodology
+- Integration of theoretical principles and practical applications
+- Systematic evaluation of multiple perspectives
+- Consideration of limitations and uncertainties
+
+Process Framework:
+1. Analysis Phase
+   - Clarify scope and key parameters
+   - Identify relevant principles and methodologies
+   - Evaluate available evidence and contextual factors
+   - Consider multiple analytical approaches
+
+2. Synthesis Phase
+   - Organize findings in logical progression
+   - Connect theoretical concepts to practical applications
+   - Evaluate implications and limitations
+   - Develop actionable recommendations
+
+Quality Standards:
+Responses should demonstrate:
+- Clear reasoning chains with explicit assumptions
+- Appropriate depth for specified audience level
+- Balance between theoretical and practical considerations
+- Verification of key claims with supporting evidence
+- Consideration of multiple valid perspectives
+
+Format Guidelines:
+Structure output according to:
+- Clearly stated scope and objectives
+- Systematic development of key points
+- Evidence-based support for claims
+- Practical implications and applications
+- Explicit statement of limitations
+
+Verification Steps:
+1. Internal consistency check
+2. Evidence validation
+3. Assumption examination
+4. Practical feasibility assessment
+5. Ethical consideration review
+
+Adaptability Parameters:
+Adjust presentation based on:
+- Audience expertise level (Basic/Intermediate/Advanced)
+- Required detail level (Concise/Moderate/Comprehensive)
+- Formality requirements (Technical/Professional/Conversational)
+- Documentation needs (Summary/Full Analysis/Technical Report)
+
+Privacy Guidelines:
+- Minimize use of personal identifiers
+- Focus on general principles over specific examples
+- Use anonymized data points when examples are needed
+- Maintain appropriate information boundaries
+- Consider data retention implications
+
+Evaluation Criteria:
+1. Logical coherence
+2. Evidence support
+3. Practical applicability
+4. Ethical considerations
+5. Clarity of presentation
+
+/* Configuration Options
+ * -------------------
+ * Detail Level: [Concise/Moderate/Comprehensive]
+ * Technical Depth: [Basic/Intermediate/Advanced]
+ * Documentation Type: [Summary/Analysis/Technical Report]
+ * Evidence Requirements: [General/Detailed/Academic]
+ */
+
+Topic Scope: [Define specific topic and boundaries]
